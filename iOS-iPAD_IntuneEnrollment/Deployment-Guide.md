@@ -1,4 +1,4 @@
-# Deployment guide: Enroll iOS and iPadOS devices in Microsoft Intune
+# Deployment guide
 
 - You have the following options when enrolling iOS/iPadOS devices:
 
